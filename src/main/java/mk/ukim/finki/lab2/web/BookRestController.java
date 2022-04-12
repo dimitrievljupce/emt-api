@@ -7,7 +7,6 @@ import mk.ukim.finki.lab2.service.BookService;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
-import javax.transaction.Transactional;
 import java.util.Arrays;
 import java.util.List;
 
